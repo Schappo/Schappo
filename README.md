@@ -2,4 +2,4 @@
 
 [![Schappo GitHub stats](https://github-readme-stats.vercel.app/api?username=Schappo&show_icons=true&theme=radical)](https://github.com/Schappo/github-readme-stats&show_icons=true&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Schappo)](https://github.com/Schappo/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Schappo&theme=onedark)](https://github.com/Schappo/github-profile-trophy)
