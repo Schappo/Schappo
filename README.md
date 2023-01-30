@@ -5,7 +5,9 @@
 <br />
 <br />
 
-### <div align="center">A Software Engineer work as full-stack developer on focus in Backend 👨‍💻 <br/> Working remotely since 2020 🚀</div>
+### <div align="center">A Software Engineer work as full-stack developer on focus in Backend 👨‍💻 <br/> Working remotely since 2020 🚀 <br /> ⚐ Based in Florianópolis - Santa Catarina - Brazil <a aligh="left" href="mailto:felipeschappoo@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/https://www.linkedin.com/in/felipe-schappo" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>
+
+</div>
 
 <br />
 <br />
@@ -130,7 +132,10 @@
   </a>
   <a href="https://linkedin.com/in/felipe-schappo" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>  
+  </a> 
+  <a href="mailto:felipeschappoo@gmail.com" target="_blank">
+    <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=Email style="margin-bottom: 5px;" />
+  </a> 
 </div>  
   
 
