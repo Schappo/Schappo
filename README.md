@@ -34,9 +34,6 @@
         <a href="https://www.tailwindcss.com/" target="_blank">
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
         </a>  
-        <a href="https://mui.com/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" />
-        </a>  
         <a href="https://www.prisma.io/" target="_blank">
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" />
         </a>  
@@ -134,6 +131,3 @@
 ----
 
 
-[![Schappo GitHub stats](https://github-readme-stats.vercel.app/api?username=Schappo&show_icons=true&theme=dracula)](https://github.com/Schappo/github-readme-stats&show_icons=true&theme=dracula)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Schappo&theme=dracula)](https://github.com/Schappo/github-profile-trophy&theme=dracula)
