@@ -5,7 +5,7 @@
 <br />
 <br />
 
-### <div align="center">A SoftwaA Software Engineer that works as a full-stack developer with a major focus on Backend 👨‍💻 <br /> Working remotely since 2020 🚀 <br /> ⚐ Based in Florianópolis - Santa Catarina - Brazil <a aligh="left" href="mailto:felipeschappoo@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/https://www.linkedin.com/in/felipe-schappo" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>
+### <div align="center">A Software Engineer that works as a full-stack developer with a major focus on Backend 👨‍💻 <br /> Working remotely since 2020 🚀 <br /> ⚐ Based in Florianópolis - Santa Catarina - Brazil <a aligh="left" href="mailto:felipeschappoo@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/https://www.linkedin.com/in/felipe-schappo" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>
 
 </div>
 
