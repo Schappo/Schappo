@@ -5,12 +5,35 @@
 <br />
 <br />
 
-### <div align="center">A Software Engineer work as full-stack developer on focus in Backend 👨‍💻 <br/> Working remotely since 2020 🚀</div>  
-  
+### <div align="center">A Software Engineer work as full-stack developer on focus in Backend 👨‍💻 <br/> Working remotely since 2020 🚀</div>
+
 <br />
 <br />
 
-## My Skill Set  
+## <div align="center">Github Stats </div>
+<div align="center" width="100%">
+  <table>
+    <tr>
+      <td align="center">
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schappo&hide_border=true&theme=radical&layout=compact" align="center" />
+        </div>  
+      </td>
+      <td align="center">
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Schappo&theme=radical&row=2&column=3)](https://github.com/Schappo/github-profile-trophy)
+      </td>
+    </tr>
+  </table>
+</div>
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Schappop&&style=flat-square" align="center" />
+</div> 
+<br />
+
+## <div align="center"> My Skill Set  </div>
 <br />
 <table>
   <tr>
@@ -99,34 +122,20 @@
 <br/>  
 
 
-## Connect with me  
+## <div align="center"> Contact me  </div>
+<br/>
 <div align="center">
-<a href="https://github.com/Schappo" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/felipe-schappo" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+  <a href="https://github.com/Schappo" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/felipe-schappo" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>  
 </div>  
   
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schappo&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Schappop&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
 
 ----
 
